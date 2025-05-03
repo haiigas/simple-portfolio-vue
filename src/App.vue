@@ -245,7 +245,7 @@ const projects = [
 
 // Contact Info
 const contactInfo = [
-  { icon: MailIcon, value: 'touch@gagas.web.id' },
+  { icon: MailIcon, value: 'hello@gagas.web.id' },
   { icon: PhoneIcon, value: '+62 895-8062-85900' },
   { icon: MapPinIcon, value: 'Pemalang, Jawa Tengah, Indonesia' }
 ];
