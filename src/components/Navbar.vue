@@ -21,13 +21,13 @@
         </div>
 
         <!-- Mobile Menu -->
-        <div v-if="mobileMenuOpen" class="md:hidden bg-white border-b border-gray-100">
-            <div class="container mx-auto px-6 py-4 flex flex-col space-y-4">
+        <div v-if="mobileMenuOpen" class="md:hidden bg-white border-b border-gray-100 py-4">
+            <div class="container mx-auto px-6 flex flex-col space-y-4">
                 <a
                 v-for="(item, index) in navItems"
                 :key="index"
                 :href="item.href"
-                class="text-gray-600 hover:text-black transition-colors py-2 text-sm font-medium"
+                class="text-gray-600 hover:text-black transition-colors text-sm font-medium"
                 @click="mobileMenuOpen = false"
                 >
                 {{ item.label }}
