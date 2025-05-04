@@ -44,6 +44,6 @@ import { Menu, X } from 'lucide-vue-next';
 const mobileMenuOpen = ref(false);
 
 defineProps({
-navItems: Array
+    navItems: Array
 });
 </script>
