@@ -67,7 +67,7 @@ export const projects = [
 export const contactInfo = [
     { icon: Mail, value: 'hello@gagas.web.id' },
     { icon: Phone, value: '+62 895-8062-85900' },
-    { icon: MapPin, value: 'Pemalang, Jawa Tengah, Indonesia' }
+    { icon: MapPin, value: 'Pemalang, Central Java, Indonesia' }
 ];
 
 export const socialLinks = [
