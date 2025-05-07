@@ -19,6 +19,13 @@
                         </a>
                     </div>
                 </div>
+
+                <!-- Show All Button (left aligned) -->
+                <div class="mt-10">
+                    <a href="https://portfolio.gagas.web.id" class="text-sm font-medium flex items-center hover:underline">
+                        Show All Projects <ArrowRight class="w-4 h-4 ml-1" />
+                    </a>
+                </div>
             </div>
         </div>
     </section>
