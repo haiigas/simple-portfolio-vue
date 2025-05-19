@@ -10,9 +10,9 @@
 </template>
 
 <script setup>
-import { navItems } from './data/menu.js';
-import { technologies, projects } from './data/master.js';
-import { contactInfo, socialLinks } from './data/contact.js';
+import { navItems } from './stores/menus.js';
+import { technologies, projects } from './stores/masters.js';
+import { contactInfo, socialLinks } from './stores/contacts.js';
 import Navbar from './components/Navbar.vue';
 import Hero from './components/Hero.vue';
 import About from './components/About.vue';
