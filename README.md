@@ -19,7 +19,7 @@ A personal portfolio website built using Vue.js and Vite, featuring a clean and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/haiigas/portfolio-vue.git
+   git clone https://github.com/haiigas/simple-portfolio-vue.git
    cd portfolio-vue
    ```
 
